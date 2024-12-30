@@ -25,3 +25,5 @@ iterations = 1000
 
 theta, cost_history = gradient_descent(X, y, theta, alpha, iterations)
 print("Optimized Parameters:", theta)
+
+# https://chatgpt.com/share/67724efe-60fc-8009-a979-f65c1e3c2000  learn from here for deep info
